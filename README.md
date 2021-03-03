@@ -8,7 +8,7 @@
     
 ## Builde EXE:
 
-    pyinstaller --onefile hello.py
+    pyinstaller --onefile main2.py
     
     
 ## Installation:
