@@ -9,3 +9,13 @@
 ## Builde EXE:
 
     pyinstaller --onefile hello.py
+    
+    
+## Installation:
+
+    $ python -m venv pharma
+    $ source pharma/bin/activate #For linux
+    $ pharma/Script/activate     #For Win
+    
+    
+![](https://github.com/xnderLAN/PharmeliTech/raw/main/ddd.PNG)
